@@ -15,7 +15,6 @@
 * 🏪 [__OpenWabi__](https://github.com/aaronjmars/openwabi) - AI app store - Generates apps in seconds & play them
 * 🔬 [__Web3 Research MCP__](https://github.com/aaronjmars/web3-research-mcp) - Deep Research for crypto - free & fully local
 * 🗂️ [__Claude Explorer__](https://github.com/aaronjmars/claude-explorer) - Explore and search your Claude AI conversation history with AI-powered categorization
-* 🦴 [__Unirig Cog__](https://github.com/aaronjmars/unirig-cog) - UniRig implementation w/ Cog
 * ⚔️ [__Butlerian Jihad__](https://github.com/aaronjmars/butlerian-jihad) - Data protocol for authenticating real human creation, connected to a DataDAO
 * 📄 [__Blank Page Prototyping__](https://github.com/aaronjmars/blank-page-prototyping) - Figma, but IRL. Take a picture of your page and it generates a website
-* 🔐 [__FHE Rock Paper Scissors__](https://github.com/aaronjmars/fhe-rockpaperscissors) - Rock Paper Scissors FHE Edition
+* 🔐 [__FHE Rock Paper Scissors__](https://github.com/aaronjmars/fhe-rockpaperscissors) - Rock Paper Scissors using FHE
