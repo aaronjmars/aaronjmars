@@ -5,6 +5,7 @@
 * 🌐 [__OpenDia__](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox
 * 💸 [__Tweazy__](https://github.com/aaronjmars/tweazy) - The best way to monetize AI applications & MCP, using x402, CDP Smart Wallets & Paymaster
 * 🌀 [__Soul.md__](https://github.com/aaronjmars/soul.md) - Build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul.
+* 👨‍💻 [__Iterative Code Evolution__](https://github.com/aaronjmars/iterative-code-evolution) - Structured methodology for improving code through disciplined cycles instead of ad-hoc "try and fix" approaches.
 * 💳 [__Agent Credit__](https://github.com/aaronjmars/agent-credit) - The first credit line for agents. Let your agent borrow & repay credit, using Aave.
 * 🪪 [__Contx.eth__](https://github.com/aaronjmars/contxdoteth) - Transform your X profile into an AI-aware .contx.eth identity in 30 seconds
 * 🔮 [__Magi__](https://github.com/aaronjmars/magi) - Meme search engine for the real shitposters
