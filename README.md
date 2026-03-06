@@ -3,7 +3,7 @@
 ## Projects
 
 * 🌐 [__OpenDia__](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox
-* * 🌀 [__Soul.md__](https://github.com/aaronjmars/soul.md) - Build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul
+* 🌀 [__Soul.md__](https://github.com/aaronjmars/soul.md) - Build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul
 * 💸 [__Tweazy__](https://github.com/aaronjmars/tweazy) - The best way to monetize AI applications & MCP, using x402, CDP Smart Wallets & Paymaster
 * 💳 [__Agent Credit__](https://github.com/aaronjmars/agent-credit) - The first credit line for agents. Let your agent borrow & repay credit, using Aave
 * 📉 [__ShameFi__](https://github.com/aaronjmars/shamefi) - View KOL previous shills + compare with real-time prices
